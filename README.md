@@ -3,7 +3,7 @@
 <h3 align="center">一站式 AI 影视解说+自动化剪辑工具🎬🎞️ </h3>
 
 <p align="center">
-  📖 <a href="README-en.md">English</a> | 简体中文 | <a href="https://narratoai.cn/">☁️ <b>云端版入口 (NarratoAI.cn)</b></a>
+  📖 <a href="README-en.md">English</a> | 简体中文 | <a href="README-vi.md">Tiếng Việt</a> | <a href="https://narratoai.cn/">☁️ <b>云端版入口 (NarratoAI.cn)</b></a>
 </p>
 
 <br>
